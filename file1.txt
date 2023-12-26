@@ -1,2 +1,2 @@
 test
-Changing details in new branch.
+Changing details in new branch
